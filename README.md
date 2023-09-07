@@ -1,7 +1,8 @@
 # Harry - The Virtual Assistant
 
 [![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/release/python-386/)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/yourusername/harry-virtual-assistant/blob/main/LICENSE)
+[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/sai-jagadesh/harry/blob/main/LICENSE)
+
 
 Harry is a versatile and user-friendly virtual assistant built with Python. It can assist you in various tasks and automate repetitive processes. Harry aims to enhance your productivity and make daily digital interactions more convenient.
 
