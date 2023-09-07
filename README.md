@@ -31,4 +31,4 @@ To get started with Harry, visit the [official website](https://sites.google.com
 Clone this repository to your local machine and follow the setup instructions provided on [Harry's Website](https://sites.google.com/view/harry-the-assistant).
 
 ```bash
-git clone https://github.com/sai-jagadesh/harry.git
+git clone https://github.com/sai-jagadesh/Harry-VAssistant.git
