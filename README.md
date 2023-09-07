@@ -6,7 +6,7 @@
 
 Harry is a versatile and user-friendly virtual assistant built with Python. It can assist you in various tasks and automate repetitive processes. Harry aims to enhance your productivity and make daily digital interactions more convenient.
 
-![Harry - The Virtual Assistant](./Laptop_ICON.ico)
+![Harry - The Virtual Assistant](./Harry_Logo.png)
 
 ## Features
 
